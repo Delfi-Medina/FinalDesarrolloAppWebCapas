@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Gastos.Modelos/1.0.0": {
+        "runtime": {
+          "Gastos.Modelos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gastos.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

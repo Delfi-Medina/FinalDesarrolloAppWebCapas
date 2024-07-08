@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Gastos.Interfaces/1.0.0": {
+        "dependencies": {
+          "Gastos.Modelos": "1.0.0"
+        },
+        "runtime": {
+          "Gastos.Interfaces.dll": {}
+        }
+      },
+      "Gastos.Modelos/1.0.0": {
+        "runtime": {
+          "Gastos.Modelos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gastos.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gastos.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

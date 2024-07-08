@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\bin\Debug\net8.0\Gastos.Interfaces.deps.json
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\bin\Debug\net8.0\Gastos.Interfaces.dll
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\bin\Debug\net8.0\Gastos.Interfaces.pdb
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\bin\Debug\net8.0\Gastos.Modelos.dll
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\bin\Debug\net8.0\Gastos.Modelos.pdb
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\obj\Debug\net8.0\Gastos.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\obj\Debug\net8.0\Gastos.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\obj\Debug\net8.0\Gastos.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\obj\Debug\net8.0\Gastos.Interfaces.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\obj\Debug\net8.0\Gastos.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\obj\Debug\net8.0\Gastos.Interfaces.sourcelink.json
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\obj\Debug\net8.0\Gastos.I.7F4880F5.Up2Date
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\obj\Debug\net8.0\Gastos.Interfaces.dll
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\obj\Debug\net8.0\refint\Gastos.Interfaces.dll
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\obj\Debug\net8.0\Gastos.Interfaces.pdb
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Interfaces\obj\Debug\net8.0\ref\Gastos.Interfaces.dll

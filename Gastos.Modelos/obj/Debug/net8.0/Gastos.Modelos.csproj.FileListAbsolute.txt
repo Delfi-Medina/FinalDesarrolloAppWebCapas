@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Modelos\bin\Debug\net8.0\Gastos.Modelos.deps.json
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Modelos\bin\Debug\net8.0\Gastos.Modelos.dll
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Modelos\bin\Debug\net8.0\Gastos.Modelos.pdb
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Modelos\obj\Debug\net8.0\Gastos.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Modelos\obj\Debug\net8.0\Gastos.Modelos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Modelos\obj\Debug\net8.0\Gastos.Modelos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Modelos\obj\Debug\net8.0\Gastos.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Modelos\obj\Debug\net8.0\Gastos.Modelos.sourcelink.json
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Modelos\obj\Debug\net8.0\Gastos.Modelos.dll
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Modelos\obj\Debug\net8.0\refint\Gastos.Modelos.dll
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Modelos\obj\Debug\net8.0\Gastos.Modelos.pdb
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Modelos\obj\Debug\net8.0\ref\Gastos.Modelos.dll
