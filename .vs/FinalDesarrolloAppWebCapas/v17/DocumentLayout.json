@@ -46,34 +46,31 @@
               "RelativeToolTip": "Gastos.Datos\\GastoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T19:02:24.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T19:02:24.497Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Gastos.Interfaces",
+              "Title": "Gastos.Interfaces.csproj",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Interfaces\\Gastos.Interfaces.csproj",
               "RelativeDocumentMoniker": "Gastos.Interfaces\\Gastos.Interfaces.csproj",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Interfaces\\Gastos.Interfaces.csproj",
               "RelativeToolTip": "Gastos.Interfaces\\Gastos.Interfaces.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-08T19:01:54.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T19:01:54.212Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Gastos.Datos",
+              "Title": "Gastos.Datos.csproj",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Datos\\Gastos.Datos.csproj",
               "RelativeDocumentMoniker": "Gastos.Datos\\Gastos.Datos.csproj",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Datos\\Gastos.Datos.csproj",
               "RelativeToolTip": "Gastos.Datos\\Gastos.Datos.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-08T19:00:52.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T19:00:52.868Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Gastos.Interfaces\\IGastoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T19:00:00.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T19:00:00.414Z"
             }
           ]
         }
