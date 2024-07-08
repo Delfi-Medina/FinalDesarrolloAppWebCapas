@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gastos.Negocios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2973104f39e74b0964738ac4758d525bedf3aa9")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b46a28ee8608b91ce6d06d8a34700634aae0d49a")]
->>>>>>> develop
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c20e7ee6512a90e4fe003ff0e39de49a34d5407")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gastos.Negocios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gastos.Negocios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

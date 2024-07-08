@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Gastos.Interfaces\Gastos.Interfaces.csproj" />
+    <ProjectReference Include="..\Gastos.Modelos\Gastos.Modelos.csproj" />
   </ItemGroup>
 
 </Project>
