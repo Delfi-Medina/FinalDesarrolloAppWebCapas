@@ -1,4 +1,4 @@
-﻿namespace Gastos.Datos
+﻿namespace Gastos.Modelos
 {
     public class Gasto
     {

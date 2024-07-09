@@ -1,4 +1,4 @@
-﻿using Gastos.Datos;
+﻿using Gastos.Modelos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,10 +10,10 @@ namespace Gastos.Interfaces
 {
     public interface IGastoRepository
     {
-        Task<IEnumerable<Gasto>> GetAllGastosAsync();
-        Task<Gasto> GetGastoByIdAsync(int id);
-        Task AddGastoAsync(Gasto gasto);
-        Task UpdateGastoAsync(Gasto gasto);
-        Task DeleteGastoAsync(int id);
+        Task<IEnumerable<Gasto>> ObtenerTodosLosGastos();
+        Task<Gasto> ObtenerGastoPorId(int id);
+        Task AgregarGasto(Gasto gasto);
+        Task ActualizarGasto(Gasto gasto);
+        Task EliminarGasto(int id);
     }
 }
