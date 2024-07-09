@@ -47,7 +47,9 @@ C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Presentacion\bin
 C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Presentacion\bin\Debug\net8.0\Gastos.Datos.dll
 C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Presentacion\bin\Debug\net8.0\Gastos.Interfaces.dll
 C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Presentacion\bin\Debug\net8.0\Gastos.Modelos.dll
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Presentacion\bin\Debug\net8.0\Gastos.Negocios.dll
 C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Presentacion\bin\Debug\net8.0\Gastos.Datos.pdb
+C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Presentacion\bin\Debug\net8.0\Gastos.Negocios.pdb
 C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Presentacion\bin\Debug\net8.0\Gastos.Interfaces.pdb
 C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Presentacion\bin\Debug\net8.0\Gastos.Modelos.pdb
 C:\Users\Usuario\source\repos\FinalDesarrolloAppWebCapas\Gastos.Presentacion\obj\Debug\net8.0\Gastos.Presentacion.csproj.AssemblyReference.cache

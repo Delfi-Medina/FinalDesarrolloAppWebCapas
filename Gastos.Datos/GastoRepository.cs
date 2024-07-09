@@ -1,4 +1,5 @@
 ﻿using Gastos.Interfaces;
+using Gastos.Modelos;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -18,29 +19,29 @@ namespace Gastos.Datos
     {
         _context = context;
     }
-    public async Task<IEnumerable<Gasto>> GetAllGastosAsync()
+    public async Task<IEnumerable<Gasto>> ObtenerTodosLosGastos()
     {
         return await _context.Gastos.ToListAsync();
     }
 
-    public async Task<Gasto> GetGastoByIdAsync(int id)
+    public async Task<Gasto> ObtenerGastoPorId(int id)
     {
         return await _context.Gastos.FindAsync(id);
     }
 
-    public async Task AddGastoAsync(Gasto gasto)
+    public async Task AgregarGasto(Gasto gasto)
     {
         await _context.Gastos.AddAsync(gasto);
         await _context.SaveChangesAsync();
     }
 
-    public async Task UpdateGastoAsync(Gasto gasto)
+    public async Task ActualizarGasto(Gasto gasto)
     {
         _context.Gastos.Update(gasto);
         await _context.SaveChangesAsync();
     }
 
-    public async Task DeleteGastoAsync(int id)
+    public async Task EliminarGasto(int id)
     {
         var gasto = await _context.Gastos.FindAsync(id);
         if (gasto != null)

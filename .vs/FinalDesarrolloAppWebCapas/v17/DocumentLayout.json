@@ -3,24 +3,66 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{DF495A2C-82D5-4B69-A0EB-70504BC1EB31}|Gastos.Negocios\\Gastos.Negocios.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.negocios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF495A2C-82D5-4B69-A0EB-70504BC1EB31}|Gastos.Negocios\\Gastos.Negocios.csproj|solutionrelative:gastos.negocios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{4744F0D8-65C9-4C54-ABB5-CE78A4DAC284}|Gastos.Presentacion\\Gastos.Presentacion.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.presentacion\\controllers\\gastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4744F0D8-65C9-4C54-ABB5-CE78A4DAC284}|Gastos.Presentacion\\Gastos.Presentacion.csproj|solutionrelative:gastos.presentacion\\controllers\\gastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D340D19-DB09-42BD-8C69-BCC36C53797A}|Gastos.Datos\\Gastos.Datos.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.datos\\gastorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D340D19-DB09-42BD-8C69-BCC36C53797A}|Gastos.Datos\\Gastos.Datos.csproj|solutionrelative:gastos.datos\\gastorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD60D88F-8D7D-49B7-992C-1B60ABEAD2BA}|Gastos.Interfaces\\Gastos.Interfaces.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.interfaces\\igastorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD60D88F-8D7D-49B7-992C-1B60ABEAD2BA}|Gastos.Interfaces\\Gastos.Interfaces.csproj|solutionrelative:gastos.interfaces\\igastorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{BD60D88F-8D7D-49B7-992C-1B60ABEAD2BA}|Gastos.Interfaces\\Gastos.Interfaces.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.interfaces\\gastos.interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BD60D88F-8D7D-49B7-992C-1B60ABEAD2BA}|Gastos.Interfaces\\Gastos.Interfaces.csproj|solutionrelative:gastos.interfaces\\gastos.interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+=======
+      "AbsoluteMoniker": "D:0:0:{DF495A2C-82D5-4B69-A0EB-70504BC1EB31}|Gastos.Negocios\\Gastos.Negocios.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.negocios\\gastoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF495A2C-82D5-4B69-A0EB-70504BC1EB31}|Gastos.Negocios\\Gastos.Negocios.csproj|solutionrelative:gastos.negocios\\gastoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4744F0D8-65C9-4C54-ABB5-CE78A4DAC284}|Gastos.Presentacion\\Gastos.Presentacion.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.presentacion\\views\\gasto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4744F0D8-65C9-4C54-ABB5-CE78A4DAC284}|Gastos.Presentacion\\Gastos.Presentacion.csproj|solutionrelative:gastos.presentacion\\views\\gasto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4744F0D8-65C9-4C54-ABB5-CE78A4DAC284}|Gastos.Presentacion\\Gastos.Presentacion.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4744F0D8-65C9-4C54-ABB5-CE78A4DAC284}|Gastos.Presentacion\\Gastos.Presentacion.csproj|solutionrelative:gastos.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F1CBC1-9CAA-4927-94BB-3DD92A786741}|Gastos.Modelos\\Gastos.Modelos.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.modelos\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F1CBC1-9CAA-4927-94BB-3DD92A786741}|Gastos.Modelos\\Gastos.Modelos.csproj|solutionrelative:gastos.modelos\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4744F0D8-65C9-4C54-ABB5-CE78A4DAC284}|Gastos.Presentacion\\Gastos.Presentacion.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.presentacion\\views\\gasto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4744F0D8-65C9-4C54-ABB5-CE78A4DAC284}|Gastos.Presentacion\\Gastos.Presentacion.csproj|solutionrelative:gastos.presentacion\\views\\gasto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4744F0D8-65C9-4C54-ABB5-CE78A4DAC284}|Gastos.Presentacion\\Gastos.Presentacion.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.presentacion\\views\\gasto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4744F0D8-65C9-4C54-ABB5-CE78A4DAC284}|Gastos.Presentacion\\Gastos.Presentacion.csproj|solutionrelative:gastos.presentacion\\views\\gasto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4744F0D8-65C9-4C54-ABB5-CE78A4DAC284}|Gastos.Presentacion\\Gastos.Presentacion.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.presentacion\\views\\gasto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4744F0D8-65C9-4C54-ABB5-CE78A4DAC284}|Gastos.Presentacion\\Gastos.Presentacion.csproj|solutionrelative:gastos.presentacion\\views\\gasto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4744F0D8-65C9-4C54-ABB5-CE78A4DAC284}|Gastos.Presentacion\\Gastos.Presentacion.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.presentacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4744F0D8-65C9-4C54-ABB5-CE78A4DAC284}|Gastos.Presentacion\\Gastos.Presentacion.csproj|solutionrelative:gastos.presentacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+>>>>>>> Stashed changes
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D340D19-DB09-42BD-8C69-BCC36C53797A}|Gastos.Datos\\Gastos.Datos.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D340D19-DB09-42BD-8C69-BCC36C53797A}|Gastos.Datos\\Gastos.Datos.csproj|solutionrelative:gastos.datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D340D19-DB09-42BD-8C69-BCC36C53797A}|Gastos.Datos\\Gastos.Datos.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.datos\\gastorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D340D19-DB09-42BD-8C69-BCC36C53797A}|Gastos.Datos\\Gastos.Datos.csproj|solutionrelative:gastos.datos\\gastorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2F1CBC1-9CAA-4927-94BB-3DD92A786741}|Gastos.Modelos\\Gastos.Modelos.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.modelos\\gastos.modelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2F1CBC1-9CAA-4927-94BB-3DD92A786741}|Gastos.Modelos\\Gastos.Modelos.csproj|solutionrelative:gastos.modelos\\gastos.modelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D340D19-DB09-42BD-8C69-BCC36C53797A}|Gastos.Datos\\Gastos.Datos.csproj|c:\\users\\usuario\\source\\repos\\finaldesarrolloappwebcapas\\gastos.datos\\gastos.datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -43,6 +85,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< Updated upstream
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Negocios\\Class1.cs",
               "RelativeDocumentMoniker": "Gastos.Negocios\\Class1.cs",
@@ -51,11 +94,35 @@
               "ViewState": "AQIAAAoAAAAAAAAAAAAgwCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T20:53:08.758Z",
+=======
+              "Title": "GastoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Presentacion\\Controllers\\GastoController.cs",
+              "RelativeDocumentMoniker": "Gastos.Presentacion\\Controllers\\GastoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Presentacion\\Controllers\\GastoController.cs",
+              "RelativeToolTip": "Gastos.Presentacion\\Controllers\\GastoController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAA6wGoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:47:45.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GastoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Negocios\\GastoServicio.cs",
+              "RelativeDocumentMoniker": "Gastos.Negocios\\GastoServicio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Negocios\\GastoServicio.cs",
+              "RelativeToolTip": "Gastos.Negocios\\GastoServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:22:38.811Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< Updated upstream
               "Title": "Gastos.Interfaces.csproj",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Interfaces\\Gastos.Interfaces.csproj",
               "RelativeDocumentMoniker": "Gastos.Interfaces\\Gastos.Interfaces.csproj",
@@ -69,31 +136,172 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+=======
+>>>>>>> Stashed changes
               "Title": "IGastoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Interfaces\\IGastoRepository.cs",
               "RelativeDocumentMoniker": "Gastos.Interfaces\\IGastoRepository.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Interfaces\\IGastoRepository.cs",
               "RelativeToolTip": "Gastos.Interfaces\\IGastoRepository.cs",
+<<<<<<< Updated upstream
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+=======
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T19:00:00.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 4,
+=======
+              "DocumentIndex": 1,
+>>>>>>> Stashed changes
               "Title": "GastoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Datos\\GastoRepository.cs",
               "RelativeDocumentMoniker": "Gastos.Datos\\GastoRepository.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Datos\\GastoRepository.cs",
               "RelativeToolTip": "Gastos.Datos\\GastoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwCcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T19:02:24.497Z"
+              "WhenOpened": "2024-07-08T19:02:24.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< Updated upstream
+              "DocumentIndex": 5,
+=======
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Presentacion\\Views\\Gasto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gastos.Presentacion\\Views\\Gasto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Presentacion\\Views\\Gasto\\Index.cshtml",
+              "RelativeToolTip": "Gastos.Presentacion\\Views\\Gasto\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T22:57:37.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gasto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Modelos\\Gasto.cs",
+              "RelativeDocumentMoniker": "Gastos.Modelos\\Gasto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Modelos\\Gasto.cs",
+              "RelativeToolTip": "Gastos.Modelos\\Gasto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:34:07.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Presentacion\\Views\\Gasto\\Create.cshtml",
+              "RelativeDocumentMoniker": "Gastos.Presentacion\\Views\\Gasto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Presentacion\\Views\\Gasto\\Create.cshtml",
+              "RelativeToolTip": "Gastos.Presentacion\\Views\\Gasto\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T22:56:56.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Presentacion\\Views\\Gasto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Gastos.Presentacion\\Views\\Gasto\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Presentacion\\Views\\Gasto\\Edit.cshtml",
+              "RelativeToolTip": "Gastos.Presentacion\\Views\\Gasto\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T22:57:50.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Presentacion\\Views\\Gasto\\Details.cshtml",
+              "RelativeDocumentMoniker": "Gastos.Presentacion\\Views\\Gasto\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Presentacion\\Views\\Gasto\\Details.cshtml",
+              "RelativeToolTip": "Gastos.Presentacion\\Views\\Gasto\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T22:57:18.098Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Gastos.Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Presentacion\\Program.cs",
+              "RelativeToolTip": "Gastos.Presentacion\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:32:34.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Gastos.Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Gastos.Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T22:59:34.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Datos\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Gastos.Datos\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Datos\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Gastos.Datos\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:00:27.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Gastos.Modelos.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Modelos\\Gastos.Modelos.csproj",
+              "RelativeDocumentMoniker": "Gastos.Modelos\\Gastos.Modelos.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Modelos\\Gastos.Modelos.csproj",
+              "RelativeToolTip": "Gastos.Modelos\\Gastos.Modelos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T22:34:05.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gastos.Interfaces.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Interfaces\\Gastos.Interfaces.csproj",
+              "RelativeDocumentMoniker": "Gastos.Interfaces\\Gastos.Interfaces.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Interfaces\\Gastos.Interfaces.csproj",
+              "RelativeToolTip": "Gastos.Interfaces\\Gastos.Interfaces.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T19:01:54.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+>>>>>>> Stashed changes
               "Title": "Gastos.Datos.csproj",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Datos\\Gastos.Datos.csproj",
               "RelativeDocumentMoniker": "Gastos.Datos\\Gastos.Datos.csproj",
@@ -101,6 +309,7 @@
               "RelativeToolTip": "Gastos.Datos\\Gastos.Datos.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+<<<<<<< Updated upstream
               "WhenOpened": "2024-07-08T19:00:52.868Z",
               "EditorCaption": ""
             },
@@ -116,6 +325,9 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T19:00:27.292Z",
               "EditorCaption": ""
+=======
+              "WhenOpened": "2024-07-08T19:00:52.868Z"
+>>>>>>> Stashed changes
             }
           ]
         }

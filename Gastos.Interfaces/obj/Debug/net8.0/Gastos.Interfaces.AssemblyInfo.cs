@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gastos.Interfaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b46a28ee8608b91ce6d06d8a34700634aae0d49a")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+523c3481bdd2c304904b9e1b67cf3a72ad7d59a7")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("Gastos.Interfaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gastos.Interfaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
