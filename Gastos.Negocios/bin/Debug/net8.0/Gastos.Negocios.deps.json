@@ -9,7 +9,6 @@
       "Gastos.Negocios/1.0.0": {
         "dependencies": {
           "Gastos.Interfaces": "1.0.0",
-          "Gastos.Modelos": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6"
         },
