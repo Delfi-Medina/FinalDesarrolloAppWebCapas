@@ -235,6 +235,9 @@
             "projectReferences": {
               "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Interfaces\\Gastos.Interfaces.csproj": {
                 "projectPath": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Interfaces\\Gastos.Interfaces.csproj"
+              },
+              "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Modelos\\Gastos.Modelos.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Modelos\\Gastos.Modelos.csproj"
               }
             }
           }

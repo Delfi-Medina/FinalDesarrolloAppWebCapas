@@ -14,15 +14,9 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gastos.Negocios.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD:Gastos.Tests/obj/Debug/net8.0/Gastos.Negocios.Tests.AssemblyInfo.cs
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f736f24a16d634d49285c48e1becddb337ace43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2b16c3eef94368da0953d93a696aea165851c69")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gastos.Negocios.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gastos.Negocios.Tests")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14d47020947811de6d38e496db11618d00f0860a")]
-[assembly: System.Reflection.AssemblyProductAttribute("Gastos.Presentacion")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Gastos.Presentacion")]
->>>>>>> main:Gastos.Presentacion/obj/Debug/net8.0/Gastos.Presentacion.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
