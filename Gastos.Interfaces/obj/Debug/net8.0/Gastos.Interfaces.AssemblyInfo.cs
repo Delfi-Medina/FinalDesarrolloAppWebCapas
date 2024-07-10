@@ -14,7 +14,27 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gastos.Interfaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f736f24a16d634d49285c48e1becddb337ace43")]
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2973104f39e74b0964738ac4758d525bedf3aa9")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b46a28ee8608b91ce6d06d8a34700634aae0d49a")]
+>>>>>>> develop
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b46a28ee8608b91ce6d06d8a34700634aae0d49a")]
+>>>>>>> develop
+=======
+<<<<<<< Updated upstream
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b46a28ee8608b91ce6d06d8a34700634aae0d49a")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+523c3481bdd2c304904b9e1b67cf3a72ad7d59a7")]
+>>>>>>> Stashed changes
+>>>>>>> develop
+>>>>>>> main
 [assembly: System.Reflection.AssemblyProductAttribute("Gastos.Interfaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gastos.Interfaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

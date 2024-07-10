@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gastos.Negocios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f736f24a16d634d49285c48e1becddb337ace43")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14d47020947811de6d38e496db11618d00f0860a")]
+>>>>>>> main
 [assembly: System.Reflection.AssemblyProductAttribute("Gastos.Negocios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gastos.Negocios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

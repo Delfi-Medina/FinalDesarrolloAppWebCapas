@@ -2778,6 +2778,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Gastos.Interfaces >= 1.0.0",
+      "Gastos.Modelos >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.6"
     ]
@@ -2812,6 +2813,9 @@
           "projectReferences": {
             "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Interfaces\\Gastos.Interfaces.csproj": {
               "projectPath": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Interfaces\\Gastos.Interfaces.csproj"
+            },
+            "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Modelos\\Gastos.Modelos.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\source\\repos\\FinalDesarrolloAppWebCapas\\Gastos.Modelos\\Gastos.Modelos.csproj"
             }
           }
         }
