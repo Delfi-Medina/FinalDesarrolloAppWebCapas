@@ -1,28 +1,75 @@
-# This workflow will build a .NET project
-# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
-
-name: .NET
+name: .NET CI/CD
 
 on:
   push:
-    branches: [ "main" ]
+    branches: 
+        - develop 
+        - main
+        - "feature/+"
+    tags:
+        - 'v*.*.*'
   pull_request:
-    branches: [ "main" ]
+    branches: 
+        - develop
 
 jobs:
   build:
-
+    name: Build and Test
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v4
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v4
-      with:
-        dotnet-version: 8.0.x
-    - name: Restore dependencies
-      run: dotnet restore
-    - name: Build
-      run: dotnet build --no-restore
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
+        - name: Checkout code
+          uses: actions/checkout@v4
+  
+        - name: Setup .NET
+          uses: actions/setup-dotnet@v4
+          with:
+            dotnet-version: 8.0.x
+
+        - name: Restore dependencies
+          run: dotnet restore
+
+        - name: Build
+          run: dotnet build --no-restore --configuration Release
+      
+        - name: Test
+          run: dotnet test --no-build --verbosity normal
+
+  deploy:
+      name: Deploy to Prodduction
+      runs-on: ubuntu-latest
+      needs: build-and-test
+      if: github.event_name == 'push' && startsWith(github.ref, 'refs/tags/v')
+
+      steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Setup PowerShell Toolkit
+        uses: hugoalh-studio/setup-powershell-toolkit-ghaction@v2.0.0
+      
+      - name: List output directories
+        run: |
+            echo "Listing files in the output directories:"
+            ls -alh ${GITHUB_WORKSPACE}/Gastos.Datos/bin/Release/net5.0/
+            ls -alh ${GITHUB_WORKSPACE}/Gastos.Interfaces/bin/Release/net5.0/
+            ls -alh ${GITHUB_WORKSPACE}/Gastos.Modelos/bin/Release/net5.0/
+            ls -alh ${GITHUB_WORKSPACE}/Gastos.Negocios/bin/Release/net5.0/
+            ls -alh ${GITHUB_WORKSPACE}/Gastos.Presentacion/bin/Release/net5.0/
+            ls -alh ${GITHUB_WORKSPACE}/Gastos.Tests/bin/Release/net5.0/
+
+      - name: Run FTP deployment script
+        run: |
+            echo "Running FTP deployment script"
+            pwsh -Command "& '${{ github.workspace }}/.github/scripts/deploy.ps1' -ftpServer '${{ secrets.FTP_SERVER }}' -ftpUsername '${{ secrets.FTP_USERNAME }}' -ftpPassword '${{ secrets.FTP_PASSWORD }}' -localPath '${{ github.workspace }}/datos/bin/Release/net5.0/' -remotePath 'www.gastosapp.com/datos'"
+            pwsh -Command "& '${{ github.workspace }}/.github/scripts/deploy.ps1' -ftpServer '${{ secrets.FTP_SERVER }}' -ftpUsername '${{ secrets.FTP_USERNAME }}' -ftpPassword '${{ secrets.FTP_PASSWORD }}' -localPath '${{ github.workspace }}/interfaces/bin/Release/net5.0/' -remotePath 'www.gastosapp.com/interfaces'"
+            pwsh -Command "& '${{ github.workspace }}/.github/scripts/deploy.ps1' -ftpServer '${{ secrets.FTP_SERVER }}' -ftpUsername '${{ secrets.FTP_USERNAME }}' -ftpPassword '${{ secrets.FTP_PASSWORD }}' -localPath '${{ github.workspace }}/modelos/bin/Release/net5.0/' -remotePath 'www.gastosapp.com/modelos'"
+            pwsh -Command "& '${{ github.workspace }}/.github/scripts/deploy.ps1' -ftpServer '${{ secrets.FTP_SERVER }}' -ftpUsername '${{ secrets.FTP_USERNAME }}' -ftpPassword '${{ secrets.FTP_PASSWORD }}' -localPath '${{ github.workspace }}/negocios/bin/Release/net5.0/' -remotePath 'www.gastosapp.com/negocios'"
+            pwsh -Command "& '${{ github.workspace }}/.github/scripts/deploy.ps1' -ftpServer '${{ secrets.FTP_SERVER }}' -ftpUsername '${{ secrets.FTP_USERNAME }}' -ftpPassword '${{ secrets.FTP_PASSWORD }}' -localPath '${{ github.workspace }}/presentacion/bin/Release/net5.0/' -remotePath 'www.gastosapp.com/presentacion'"
+            pwsh -Command "& '${{ github.workspace }}/.github/scripts/deploy.ps1' -ftpServer '${{ secrets.FTP_SERVER }}' -ftpUsername '${{ secrets.FTP_USERNAME }}' -ftpPassword '${{ secrets.FTP_PASSWORD }}' -localPath '${{ github.workspace }}/tests/bin/Release/net5.0/' -remotePath 'www.gastosapp.com/tests'"
+        env: 
+           FTP_SERVER: "ftp.gastosapp.com"
+           FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+      
+
+
